@@ -138,7 +138,6 @@
 
 .subTitleSectionThree {
     font-size: 30px;
-    margin: 0px;
     margin-bottom: 34px;
     color: #fff;
 }
@@ -150,10 +149,6 @@
     margin-bottom: 40px;
 }
 
-.colImgSectionThree {
-    text-align: -webkit-center;
-}
-
 .titleImgSectionThree {
     color: #fff;
     font-size: 40px;
@@ -163,4 +158,58 @@
 .subTitleImgSectionThree {
     color: #fff;
     font-size: 25px;
+    margin: 10px;
+}
+
+.textWebCenter {
+    text-align: -webkit-center;
+}
+
+.cardSectionFour {
+    width: 250px;
+    margin: 10px;
+}
+
+.titleCard {
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.dateCard {
+    color: #00bec9;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.readMoreCard {
+    color: #00bec9;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.textCard {
+    font-size: 15px;
+}
+
+.allTextsCard {
+    padding: 20px;
+}
+
+.secondCardSectionFour {
+    -webkit-box-shadow: 3px 2px 15px -1px rgba(212, 212, 212, 1);
+    -moz-box-shadow: 3px 2px 15px -1px rgba(212, 212, 212, 1);
+    box-shadow: 3px 2px 15px -1px rgba(212, 212, 212, 1);
+}
+
+.titleSectionFour {
+    font-size: 60px;
+    font-weight: 700;
+    margin-bottom: 34px;
+}
+
+.subTitleSectionFour {
+    font-size: 30px;
+    margin: 0px;
+    margin-bottom: 34px;
+    font-weight: 500;
 }
