@@ -16,6 +16,7 @@
     padding: 20px 100px;
     position: fixed;
     width: 100%;
+    z-index: 999;
 }
 
 .divLogo {
@@ -256,4 +257,48 @@
 
 .divPaddingSectionFive {
     padding: 0px 30px;
+}
+
+.sectionGray {
+    padding: 93px 0px;
+    background-color: #343434;
+}
+
+.linkStyleSectionSix {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    display: block;
+}
+
+.linkStyleSectionSix:hover {
+    color: #fcc302;
+}
+
+.textEmailSectionSix {
+    color: white;
+    font-size: 25px;
+}
+
+.inputSectionSix {
+    background-color: #fcc302;
+    border: none;
+    height: 65px;
+    width: 300px;
+}
+
+.buttonSectionSix {
+    border: none;
+    width: 100px;
+    background-color: #00bec9;
+    color: white;
+}
+
+.socialSectionSix {
+    border-radius: 50%;
+    background-color: white;
+    border: none;
+    width: 45px;
+    height: 45px;
+    margin-left: 15px;
 }
